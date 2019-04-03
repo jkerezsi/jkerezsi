@@ -1,0 +1,51 @@
+header {
+	margin: 0;
+}
+
+.topnav {
+	background-color: #333333;
+	height: 40px;
+	width: 100%;
+	padding: 15px 5px;
+}
+
+.topnav img{
+	margin-left: 100px;
+}
+
+.topnav a {
+	color: #ff0099;
+	font-size: 20px;
+}
+
+body {
+	background-image: url(assets/background.png);
+	background-size: auto;
+}
+
+#bod {
+	margin: 0px 100px;
+	align-content: center;
+	font-family: consolas;
+	padding: 10px 10px;
+}
+
+.dashes {
+	font-size: 30px;
+	text-align: center;
+}
+
+h1 {
+	font-size: 60px;
+	font-family: courier;
+	padding-top: 100px;
+}
+
+li {
+	list-style: none;
+	float: right;
+	padding: 10px;
+	font-size: 24px;
+	color: white;
+}
+
